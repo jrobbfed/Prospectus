@@ -1,3 +1,2 @@
 untitled.tex
-sdflksdj__.tex
 Here_s_a_new_section__.tex
