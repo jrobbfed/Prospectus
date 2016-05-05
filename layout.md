@@ -1,4 +1,3 @@
 section_Background_label_sec_bkgrd__.tex
-figures/pasted-image/pasted-image.png
 section_Project_and_Timeline_label__.tex
   
