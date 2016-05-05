@@ -1,4 +1,5 @@
 section_Background_label_sec_bkgrd__.tex
+subsection_Turbulence_Regulated_Star_Formation__.tex
 subsection_How_is_Turbulence_Maintained__.tex
 subsection_Stellar_Feedback_label_sec__.tex
 subsubsection_Bipolar_Outflows_label_sec__.tex
