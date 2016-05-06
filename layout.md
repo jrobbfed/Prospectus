@@ -11,6 +11,7 @@ subsection_Molecular_Clouds_label_sec__.tex
 subsubsection_Orion_A_label_sec__.tex
 subsubsection_North_American_Nebula_label__.tex
 section_Project_and_Timeline_label__.tex
+figures/Screen Shot 2016-05-05 at 9.19.03 PM/Screen Shot 2016-05-05 at 9.19.03 PM.png
 subsection_Dissertation_Papers_label_sec__.tex
 subsubsection_Wind_Blown_Shells_in__.tex
 subsubsection_Multi_Scale_Feedback_in__.tex
