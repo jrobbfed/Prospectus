@@ -15,6 +15,7 @@ subsection_Dissertation_Papers_label_sec__.tex
 subsubsection_Wind_Blown_Shells_in__.tex
 figures/Screen Shot 2016-05-05 at 9.19.03 PM/Screen Shot 2016-05-05 at 9.19.03 PM.png
 figures/Screen Shot 2016-05-05 at 11.06.29 PM/Screen Shot 2016-05-05 at 11.06.29 PM.png
+figures/Screen Shot 2016-05-05 at 11.54.44 PM/Screen Shot 2016-05-05 at 11.54.44 PM.png
 subsubsection_Multi_Scale_Feedback_in__.tex
 subsubsection_Shells_and_Outflows_in__.tex
 subsubsection_The_Rungs_of_the__.tex
